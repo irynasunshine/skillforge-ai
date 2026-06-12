@@ -21,7 +21,7 @@ your progress, and provides an AI mentor you can chat with at any time.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository>
+git clone https://github.com/irynasunshine/skillforge-ai
 cd skillforge-ai
 ```
 
